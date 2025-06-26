@@ -1,0 +1,10 @@
+body {
+    font-family: Comic Sans MS;
+}
+ h1 {
+    margin:-10px;
+ }
+
+img {
+    border: 10px dashed red;
+}
